@@ -1,3 +1,3 @@
 # Git-Introduction
 <br>
-Author-  Yagnik Vamja
+Yagnik Vamja - (The Author)
